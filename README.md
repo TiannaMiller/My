@@ -1,2 +1,1 @@
-# My
-DAY DAY UP
+The first public project.
